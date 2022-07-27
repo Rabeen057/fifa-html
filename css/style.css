@@ -1,0 +1,50 @@
+.nav{
+			list list-style-type: none;
+			margin: 0;
+			padding: 0;
+			background-color: greenyellow;
+			overflow: hidden;
+		}
+		li{
+			float: left;
+		}
+		li a{
+			padding: 16px;
+			text-decoration: none;
+			color: orangered;
+			display: block;
+		}
+		li a:hover{
+			background-color: lightblue;
+		}
+		.h2{
+			color: greenyellow;
+			font-size: 100px;
+			background-color: royalblue;
+			font-weight: 800;
+			font-family: sans-serif;
+			text-align: center;
+			background: url("https://th.bing.com/th/id/R.2e9d1e32d4115fbd5211206d2aeebefe?rik=TAMs5n3TJfAbyQ&pid=ImgRaw&r=0");
+
+		}
+		.par{
+			font-size: 30px;
+			background-color: palegoldenrod;
+		}
+		.orange{
+			color: orange;
+		}
+		.blue{
+			color: blue;
+		}
+		.green{
+			color: green;
+		}
+		mar{
+			 border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+  		}
